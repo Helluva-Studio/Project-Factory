@@ -14,6 +14,10 @@
 		{
 			"Name": "ProceduralDungeon",
 			"Enabled": false
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
