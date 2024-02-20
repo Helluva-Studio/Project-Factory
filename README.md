@@ -38,7 +38,7 @@ Find blueprints around the factory!
 
 <img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/turret.gif" width="750">
 
-Use essenses to upgrade your arsenal and abilities!
+Use essences to upgrade your arsenal and abilities!
 
 <img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/shop.gif" width="750">
 
