@@ -14,7 +14,7 @@ Memory Leak aims to be a game that appeals to fans of Survival, Tower Defence an
 ## Requirements
 
 If you want to open, edit or see the Unreal Engine project:
-* Unreal Engine 5.3.2
+* Unreal Engine 5.3
 
 ## How to play
 
@@ -24,30 +24,32 @@ Follow the tutorial inside the game and have fun survive in Memory Leak!
 
 Here are few sneak peek of our game!
 
-Escape from Tenerbis running through the dangerous environment:
+Survive against the monsters managing your battery!
 
 <img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/EscapingTenebris.gif" width="750">
 
-Buy power-ups to improve your run!
+Explore the factory and retrieve resources!
 
 <img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Powerup.gif" width="750">
 
-Manage your own settings!
+Use resources to craft turrets to defende yourself!
 
 <img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Settings.gif" width="750">
 
+Enemy drop essense, use it to upgrade your arsenal and abilities!
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Settings.gif" width="750">
 
 ## Team
 
 **Developers**:
 * Simone Vacirca: https://github.com/Mightgami
 * Giovanni Giacalone: https://github.com/JackAlone96
-* Anthony Fedeli: 
-* Gabriele Ferilli: 
+* Anthony Fedeli: https://github.com/amicofede
+* Gabriele Ferilli: https://github.com/iron-gabri97
 
 **Game Designers**:
-* Rocco Maraini
-* Simone Marzeddu
-* Daniele Iengo
-* Alessandro Giacomini
-* Massimo Rossa
+* Rocco Maraini: https://github.com/Roccuz
+* Simone Marzeddu: https://github.com/SimoneMarzeddu
+* Daniele Iengo: https://github.com/Danieleiengo
+* Alessandro Giacomini: https://github.com/Chaiko113
+* Massimo Rossa: https://github.com/MassimoRossa
