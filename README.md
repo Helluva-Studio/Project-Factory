@@ -11,6 +11,8 @@
 
 Memory Leak aims to be a game that appeals to fans of Survival, Tower Defence and Rogue Lite genres, offering a combination of mechanics typical of the three genres that, by striving for originality, could prove appealing to gamers looking for fresh and alternative innovations in the Survival market of PC games. The presence of a solid narrative background to the product is intended to attract the attention of non casual gamers looking for an experience to discover and remember.
 
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/menu.gif" width="750">
+
 ## Requirements
 
 If you want to open, edit or see the Unreal Engine project:
@@ -24,20 +26,25 @@ Follow the tutorial inside the game and have fun survive in Memory Leak!
 
 Here are few sneak peek of our game!
 
-Survive against the monsters managing your battery!
+Survive against the monsters and your own energy depletion!
 
-<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/EscapingTenebris.gif" width="750">
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/bombard.gif" width="750">
 
-Explore the factory and retrieve resources!
+Explore the factory and retrieve resources to build powerful turrets!
 
-<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Powerup.gif" width="750">
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/junk.gif" width="750">
 
-Use resources to craft turrets to defende yourself!
+Find blueprints around the factory!
 
-<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Settings.gif" width="750">
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/turret.gif" width="750">
 
-Enemy drop essense, use it to upgrade your arsenal and abilities!
-<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/Settings.gif" width="750">
+Use essenses to upgrade your arsenal and abilities!
+
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/shop.gif" width="750">
+
+Pull the levers around the factory, and discover the hidden ADMIN...
+
+<img src="https://github.com/Helluva-Studio/Project-Factory/blob/master/Images/lever.gif" width="750">
 
 ## Team
 
