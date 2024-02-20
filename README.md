@@ -14,7 +14,7 @@ Memory Leak aims to be a game that appeals to fans of Survival, Tower Defence an
 ## Requirements
 
 If you want to open, edit or see the Unreal Engine project:
-* Unity 2021.3.21f1 (or greater)
+* Unreal Engine 5.3.2
 
 ## How to play
 
