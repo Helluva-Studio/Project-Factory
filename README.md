@@ -51,7 +51,7 @@ Pull the levers around the factory, and discover the hidden ADMIN...
 **Developers**:
 * Simone Vacirca: https://github.com/Mightgami
 * Giovanni Giacalone: https://github.com/JackAlone96
-* Anthony Fedeli: https://github.com/amicofede
+* Anthony Fedeli: https://github.com/AnthonyWithTh
 * Gabriele Ferilli: https://github.com/iron-gabri97
 
 **Game Designers**:
